@@ -1,0 +1,12 @@
+#SPDX-License-Identifier: Apache-2.0
+**/node_modules/
+client/build/
+wallet/
+logs/
+**/pl-test/
+**/test/
+*.md
+docs/
+proto-layer/
+..dockiregone
+.git
